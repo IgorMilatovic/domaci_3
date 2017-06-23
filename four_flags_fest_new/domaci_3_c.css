@@ -1,0 +1,148 @@
+
+body {
+	background-color: rgb(153, 153, 153);
+}
+
+header {
+	background-color: rgb(153, 153, 153);
+}
+
+.logo {
+	border: 1px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin: 25px 0 0 25px;
+	background-color: red;
+}
+
+.P1 {
+	font-family: 'Slabo 27px', serif;
+	font-size: 2em;
+	margin: 6px 10px;
+}
+
+.header-title {
+	width: 762px;
+	margin: -30px auto 30px;
+}
+
+.number {
+	font-family: 'Slabo 27px', serif;
+	font-size: 2em;
+}
+
+.F {
+	display: inline-block;
+	font-size: 10em;
+	border: 1px solid black;
+	background-color: darkorange;
+}
+
+.word-rest {
+	font-size: 3.7em;
+}
+
+a {
+	text-decoration: none;
+	color: #404040;
+}
+
+a:hover {
+	color: #99ccff;
+}
+
+.nav {
+	height: 40px;
+	border-radius: 10px;
+	background-color: darkorange;
+}
+
+.nav1 {
+	height: 40px;
+	width: 950px;
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5em;
+	list-style-type: none;
+	padding: 5px 0 5px 75px;
+}
+	
+.art-all {
+	width: 900px; 
+	margin: 200px auto 0;
+}
+
+.art {
+	background-color: #99ccff;
+	border: 1px solid black;
+	font-family: 'Slabo 27px', serif; 
+	font-size: 2.5em;
+	text-align: center;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	float: left;
+}
+
+.paragraf {
+	padding: 10px;
+}
+
+.img {
+	height:75px;
+	width:75px;
+	border-radius: 50%;
+	position: relative;
+}
+
+.ear {
+	bottom: 250px;
+	left: 123px;
+}
+
+.eye {
+	bottom: 250px;
+	left: 270px;
+}
+
+.hand {
+	bottom: 250px;
+	left: 415px;
+}
+
+.smily {
+	bottom: 250px;
+	left: 563px;
+}
+
+.footer {
+	margin-top: 100px;
+}
+
+.foot {
+	font-family: 'Slabo 27px', serif; 
+	font-size: 1em;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
